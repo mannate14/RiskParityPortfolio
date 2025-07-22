@@ -44,8 +44,8 @@ Risk Parity is an asset allocation strategy that focuses on **equalizing risk co
 1. **Clone the Repository:**
 
 ```bash
-git clone https://github.com/its-adityagoyal/Risk-Parity-Portfolio-Management.git
-cd Risk-Parity-Portfolio-Management
+git clone https://github.com/mannate14/RiskParityPortfolio.git
+cd RiskParityPortfolio
 ```
 
 
