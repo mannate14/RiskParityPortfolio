@@ -75,7 +75,7 @@ This project is licensed under the MIT License. See LICENSE [License](./LICENSE)
 
 ## 📚 References
 
-- Sébastien Maillard†, Thierry Roncalli‡ & Jérôme Teiletche§ - [PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1613022)  
+- Sébastien Maillard†, Thierry Roncalli‡ & Jérôme Teiletche§ - [PDF](http://thierry-roncalli.com/download/erc.pdf)  
 - For more reference, see [`references.txt`](./references.txt)
 
 
